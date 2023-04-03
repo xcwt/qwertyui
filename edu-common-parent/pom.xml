@@ -59,7 +59,7 @@
 		<!-- timer projects -->
 
 		<!-- frameworks -->
-		<org.springframework.version>5.3.14</org.springframework.version>
+		<org.springframework.version>5.2.23.RELEASE</org.springframework.version>
 		<org.apache.struts.version>2.5.5</org.apache.struts.version>
 
 	</properties>
@@ -137,7 +137,7 @@
 			<dependency>
 				<groupId>commons-net</groupId>
 				<artifactId>commons-net</artifactId>
-				<version>3.9.0</version>
+				<version>3.8.0</version>
 			</dependency>
 			<dependency>
 				<groupId>commons-beanutils</groupId>
@@ -318,7 +318,7 @@
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-instrument-tomcat</artifactId>
-				<version>5.3.14</version>
+				<version>4.3.30.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework</groupId>
@@ -369,7 +369,7 @@
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-webmvc-portlet</artifactId>
-				<version>${org.springframework.version}</version>
+				<version>4.3.30.RELEASE</version>
 			</dependency>
 			<!-- Spring Dependency End -->
 
@@ -390,7 +390,7 @@
 			<dependency>
 				<groupId>mysql</groupId>
 				<artifactId>mysql-connector-java</artifactId>
-				<version>8.2.30</version>
+				<version>8.0.32</version>
 			</dependency>
 			<!-- Mysql Driver End -->
 
